@@ -1,87 +1,266 @@
 
 
 
+
+
+
+
+
+
+
+
 [
-    
-     {
+   
+	 {
  "rating": 5.0,
   "otziv": "30",
 	  "obr": "427",
       "image_url": "https://zaimua.com.ua/img/kredit7.jpg",
-        "sum_one": "до 20 000 грн.",
+        "sum_one": "20 000 грн.",
  "age": "18",
-   "percent": "от 0%",
+   "percent": "0%",
   "term_to": "",
-    "url": "https://tds.pdl-profit.com?offerid=1147&affid=20776&subid2=uatoden"
+    "url": "https://tds.pdl-profit.com?offerid=1147&affid=20776&subid2=tius"
   },
- 
- {
-   "rating": 5.0,
-     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-     "age": "18",
-     "percent": "від 0% в день",
-	  "otziv": "1",
-	  "obr": "427",
-	"sum_one": "15 000 грн",
-	"term_to": "",
-     "url": "https://google.com"
-         }
-    
-    
-,
-
-
- {
-   "rating": 4.5,
-     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-     "age": "18",
-     "percent": "від 0% в день",
-	 "otziv": "2",
-	  "obr": "427",
-	"sum_one": "12 000 грн",
-	"term_to": "до 160 днів",
-     "url": "https://www.homecredit.ru"
-  
-    }
-    
- ,
- {
-      "rating": 4.5,
-  "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-   "age": "18",
-     "percent": "від 0% в день",
-	 "otziv": "3",
-	  "obr": "427",
-	"sum_one": "12 000 грн",
-	"term_to": "до 160 днів",
-     "url": "https://google.com"
-        
-  
-    }
-    
-    
-,
-
-
- {
-   "rating": 4.7,
-     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-     "age": "18",
 	
-     "percent": "від 0% в день",
-	 "otziv": "4",
-	  "obr": "425",
-	"sum_one": "12 000 грн",
-	"term_to": "до 160 днів",
-     "url": "https://www.homecredit.ru"
+	
+{
+
+ "rating": 5.0,
+  "otziv": "28",
+	  "obr": "420",
+      "image_url": "https://zaimua.com.ua/img/selfdit.png",
+        "sum_one": "15 000 грн",
+ "age": "18",
+   "percent": "0%",
+  "term_to": "",
+    "url": "https://rdr.stormdigital.biz/SbMvS7"
+  }
+   , 	
+	
+{
+ "rating": 4.9,
+  "otziv": "24",
+	  "obr": "400",
+      "image_url": "https://zaimua.com.ua/img/creditplus-ua-kv.jpg.png",
+        "sum_one": "15 000 грн",
+ "age": "18",
+   "percent": "0%",
+  "term_to": "",
+    "url": "https://tds.pdl-profit.com?offerid=1158&affid=20776&subid2=tius"
+  }
+   , 	
+	
+
+	  {
+
+ "rating": 4.8,
+  "otziv": "20",
+	  "obr": "350",
+      "image_url": "https://zaimua.com.ua/img/kachay.png",
+        "sum_one": "10 000 грн",
+ "age": "18",
+   "percent": "0.01%",
+  "term_to": "",
+    "url": "https://tds.pdl-profit.com?offerid=1162&affid=20776&subid=tius"
+  },
+	
+	
+
+
+{
+"rating": 4.7,
+  "otziv": "16",
+	  "obr": "330",
+      "image_url": "https://zaimua.com.ua/img/mone.png",
+        "sum_one": "10 000 грн",
+ "age": "18",
+   "percent": "0%",
+  "term_to": "",
+    "url": "https://tds.pdl-profit.com/h/le762fa0bb7a57d6?subid2=tius"
+  }
+   , 	
+	
+
   
-    }
-    
-
-
-
-
+	
+	
+	
  
+ {
+
+"rating": 4.7,
+  "otziv": "15",
+	  "obr": "310",
+       "image_url": "https://zaimua.com.ua/img/zecredit_logo.png",
+        "sum_one": "7 000 грн",
+ "age": "18",
+   "percent": "0.01%",
+  "term_to": "",
+    "url": "https://tds.pdl-profit.com?offerid=1182&affid=20776&subid2=tius"
+  },
+  	
+	
+	
+	
+	
+	
+	
+	
+ {
+
+"rating": 4.6,
+  "otziv": "12",
+	  "obr": "280",
+      "image_url": "https://zaimua.com.ua/img/creditkasa-ua-kv.jpg.png",
+        "sum_one": "15 000 грн",
+ "age": "18",
+   "percent": "0.01%",
+  "term_to": "",
+    "url": "https://tds.pdl-profit.com?offerid=1203&affid=20776&subid2=tius"
+  }
+  , 
+
+
+{
+"rating": 4.5,
+  "otziv": "10",
+	  "obr": "250",
+      "image_url": "https://zaimua.com.ua/img/bbvs.png",
+      
+    "sum_one": "15 000 грн",
+ "age": "18",
+   "percent": "0.01%",
+  "term_to": "",
+    "url": "https://tds.pdl-profit.com/h/ltc63d0fac050b4a?subid2=tius"
+  }
+ 
+  ,  
+	
+	
+	
+
+
+
+	
+	
+	
+	{
+"rating": 4.3,
+  "otziv": "8",
+	  "obr": "200",
+      "image_url": "https://zaimua.com.ua/img/egrs.png",
+      
+    "sum_one": "25 000 грн",
+ "age": "18",
+   "percent": "0.01%",
+  "term_to": "",
+    "url": "https://tds.pdl-profit.com/h/li26450a3e4bdb24?subid2=tius"
+  }
+ 
+  ,  
+	
+	
+	{
+
+"rating": 4.3,
+  "otziv": "7",
+	  "obr": "180",
+      "image_url": "https://zaimua.com.ua/img/avr.png",
+       "age": "18",
+    "sum_one": "5 000 грн",
+   "percent": "0.01%",
+  "term_to": "",
+    "url": "https://tds.pdl-profit.com/h/m4n6450a44c59c26?subid2=tius"
+  }
+ 
+  
+  
+	 ,  
+	
+	
+	{
+
+"rating": 4.2,
+  "otziv": "7",
+	  "obr": "150",
+      "image_url": "https://zaimua.com.ua/img/lvie.png",
+      
+    "sum_one": "10 000 грн",
+ "age": "18",
+   "percent": "0.01%",
+  "term_to": "",
+    "url": "https://tds.pdl-profit.com/h/mkl6450a3443daaf?subid2=tius"
+  }
+
+	
+	
+ 
+   ,  
+	
+	
+	{
+
+"rating": 4.0,
+  "otziv": "5",
+	  "obr": "140",
+      "image_url": "https://zaimua.com.ua/img/avns.png",
+       "age": "18",
+    "sum_one": "15 000 грн",
+   "percent": "0.01%",
+  "term_to": "",
+    "url": "https://tds.pdl-profit.com/h/mjm6450a43e432b3?subid2=tius"
+  }	
+,
+
+
+
+  
+	
+	
+	
+	
+  
+  
+	
+
+	
+	
+ 
+  	
+
+
+
+
+  
+ 
+
+	
+	
+	
+	
+	
+	
+	
+      
+        {
+        
+       "rating": 4.0,
+  "otziv": "3",
+	  "obr": "110",
+
+		    "image_url": "https://zaimua.com.ua/img/miloan_logo.png",
+    	
+    "sum_one": "12 000 грн",
+ "age": "18",
+	"percent": "0%",
+	"term_to": "",
+    "url": "https://tds.pdl-profit.com/h/ld4635a970b2969e?subid2=tius"
+
+  
+  
+  
+  } 
    
    
   
